@@ -1,6 +1,7 @@
 //Приложение лайк на Классовых компонентах
 
 import React from "react";
+import './liked.css'
 
 class App extends React.Component {
     constructor(props) {
